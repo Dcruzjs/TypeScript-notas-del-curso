@@ -1,4 +1,7 @@
-export {};
+// Tipo tuple
+// Tuplas: permiten expresar un arreglo con un numero fijo de elementos
+
+export {}; // -> user ya fue declarado en otro archivo
 
 // [1, 'user']
 let user: [number, string];

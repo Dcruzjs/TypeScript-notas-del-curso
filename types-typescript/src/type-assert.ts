@@ -1,3 +1,4 @@
+//Mecanismo que permite realizar una conversion de tipo de datos    
 export {};
 // <tipo> // Angle Bracket syntax
 let username: any;
